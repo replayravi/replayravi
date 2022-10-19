@@ -5,7 +5,7 @@
   <body>
     <from>
       <h4> Text</h4>
-      Name : <input type = "text" name = "user_name" size = "20"value ="e.g. Ravi kumar" maxlength = "20">
+      Name : <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
       <br/>
       Email : <input type = "text" email = "email_id" size = "20" value = "e.g. revi@gmail.com" maxlength = "20"> 
       <br/>
