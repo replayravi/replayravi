@@ -3,7 +3,7 @@
     SRM
   </head>
   <body>
-    <from>
+    <from><fieldset>
       <h4> Text</h4><br/>
       Name :<br/> <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
       <br/>
@@ -11,6 +11,7 @@
       <br/>
     Password : <br/><input type = "Password" name = "user_pass"> 
     <br/>
+    </fieldset>
     </from>
   </body>
   </html>
