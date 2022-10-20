@@ -19,7 +19,7 @@
      <input type="radio" value="m" name="gender">Male
       <input type="radio" value="f" name="gender">female
       <br/><br/>
-      <input type="submit" name="b_sunmit" value="SUBMIT">
+      <input type="submit" name="sunmit" value="SUBMIT">
     </fieldset>
     </from>
   </body>
