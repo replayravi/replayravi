@@ -14,10 +14,11 @@
       Email :<br/> <input type = "text" email = "email_id" size = "20" value = "e.g. revi@gmail.com" maxlength = "20"> 
       <br/>
     Password : <br/><input type = "Password" name = "user_pass"> 
-    <br/>
+    <br/><br/>
     <select>
-    <option value="Course">Select</option>
-    <option value="BCA">BCA</option>
+       <option value="Course">Select</option>
+       <option value="BCA">BCA</option>
+      <option value="MCA">MCA</option>
     </select>
      <h4>GENDER</h4>
      <input type="radio" value="m" name="gender">Male
