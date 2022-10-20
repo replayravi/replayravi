@@ -12,6 +12,9 @@
       <br/>
     Password : <br/><input type = "Password" name = "user_pass"> 
     <br/>
+     <h4>SEX</h4>
+     <input type="radio" value="m" name="gender">Male
+      <input type="radio" value="f" name="gender">female
     </fieldset>
     </from>
   </body>
