@@ -15,6 +15,7 @@
       <br/>
     Password : <br/><input type = "Password" name = "user_pass"> 
     <br/><br/>
+        <h4>COURSE</h4>
     <select>
        <option value="Course">Select</option>
        <option value="BCA">BCA</option>
