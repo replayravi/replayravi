@@ -4,12 +4,12 @@
   </head>
   <body>
     <from>
-      <h4> Text</h4>
-      Name : <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
+      <h4> Text</h4><br/>
+      Name :<br/> <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
       <br/>
-      Email : <input type = "text" email = "email_id" size = "20" value = "e.g. revi@gmail.com" maxlength = "20"> 
+      Email :<br/> <input type = "text" email = "email_id" size = "20" value = "e.g. revi@gmail.com" maxlength = "20"> 
       <br/>
-    Password : <input type = "Password" name = "user_pass"> 
+    Password : <br/><input type = "Password" name = "user_pass"> 
     <br/>
     </from>
   </body>
