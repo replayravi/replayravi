@@ -15,6 +15,10 @@
       <br/>
     Password : <br/><input type = "Password" name = "user_pass"> 
     <br/>
+    <select>
+    <option value="Course">Select</option>
+    <option value="BCA">BCA</option>
+    </select>
      <h4>GENDER</h4>
      <input type="radio" value="m" name="gender">Male
       <input type="radio" value="f" name="gender">female
