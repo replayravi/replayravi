@@ -18,7 +18,7 @@
      <h4>SEX</h4>
      <input type="radio" value="m" name="gender">Male
       <input type="radio" value="f" name="gender">female
-      <br/>
+      <br/><br/>
       <input type="submit" name="b_sunmit" value="SUBMIT">
     </fieldset>
     </from>
