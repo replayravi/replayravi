@@ -3,9 +3,10 @@
     SRM
   </head>
   <body>
-    <from><fieldset><legend>FORM</legend>
-      
-      Name :<br/> <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
+    <from>
+      <fieldset>
+      <legend>FORM</legend></br>
+       Name :<br/> <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
       <br/>
       Email :<br/> <input type = "text" email = "email_id" size = "20" value = "e.g. revi@gmail.com" maxlength = "20"> 
       <br/>
