@@ -6,6 +6,7 @@
     <from>
       <fieldset>
       <legend>FORM</legend>
+      <br/>
        Name :<br/> <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
       <br/>
        Address :<br/> <input type = "text" name = "user_name" size = "20" value = "bel" maxlength = "20">
