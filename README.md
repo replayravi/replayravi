@@ -14,7 +14,7 @@
       Email :<br/> <input type = "text" email = "email_id" size = "20" value = "e.g. revi@gmail.com" maxlength = "20"> 
       <br/>
     Password : <br/><input type = "Password" name = "user_pass"> 
-    <br/><br/>
+    <br/>
         <h4>COURSE</h4>
     <select>
        <option value="Course">Select</option>
