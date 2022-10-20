@@ -20,6 +20,7 @@
       <input type="radio" value="f" name="gender">female
       <br/><br/>
       <input type="submit" name="sunmit" value="SUBMIT">
+      <input type="reset" name="reset" value="RESET">
     </fieldset>
     </from>
   </body>
