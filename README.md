@@ -5,7 +5,7 @@
   <body>
     <from>
       <fieldset>
-      <legend>FORM</legend>
+      <legend>FROM</legend>
       <br/>
        Name :<br/> <input type = "text" name = "user_name" size = "20" value = "e.g. Ravi kumar" maxlength = "20">
       <br/>
